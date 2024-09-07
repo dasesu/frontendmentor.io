@@ -1,4 +1,5 @@
 # frontendmentor.io
-Solved challenges from frontendmentor.io
 
-[<img src="001_recipe-page-main/desktop-preview.jpg" alt="Recipe page" width=200>](001_recipe-page-main/)
+#### Solved challenges from frontendmentor.io
+[<img src="001_recipe-page-main/design/desktop-preview.jpg" alt="Recipe page" width=300>](001_recipe-page-main/)  r
+[Recipe page]("001_recipe-page-main/")
